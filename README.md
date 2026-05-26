@@ -4,10 +4,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Jesus-MMM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=2ED573&center=true&vCenter=true&width=520&lines=Estudiante+de+Ing.+de+Sistemas;Desarrollador+Full-Stack;Entusiasta+de+IA+y+Videojuegos;Contribuidor+Open+Source;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
@@ -50,19 +46,14 @@
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jesus-MMM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jesus-MMM&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&text_color=c9d1d9" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=Jesus-MMM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
+  &nbsp;
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs?username=Jesus-MMM&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&text_color=c9d1d9" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jesus-MMM&theme=radical&hide_border=true&background=0d1117&fire=2ed573&ring=2ed573&currStreakLabel=2ed573" />
-</div>
+</p>
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="8"/>
@@ -109,6 +100,7 @@
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forge-EE2E24?style=for-the-badge&logo=minecraft&logoColor=white"/>
 </p>
 
 <h3 align="center">Herramientas y Plataformas</h3>
@@ -130,7 +122,6 @@
 
 <!-- ============= PROYECTOS ============= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Folder.png" alt="Folder" width="26" height="26" />
   <h2>Proyectos Destacados</h2>
 </div>
 
@@ -141,7 +132,7 @@
     <td width="50%" align="center" valign="top">
       <h3>🔐 EnDe</h3>
       <a href="https://github.com/Jesus-MMM/EnDe">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jesus-MMM&repo=EnDe&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
+        <img src="https://gh-readme-stats.vercel.app/api/pin?username=Jesus-MMM&repo=EnDe&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
       </a>
       <p><em>App de escritorio para encriptación/desencriptación con Python, PyQt5 y Cryptography.</em></p>
       <p>
@@ -152,7 +143,7 @@
     <td width="50%" align="center" valign="top">
       <h3>🌤️ Weather Logs System</h3>
       <a href="https://github.com/Jesus-MMM/weather-logs-system">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jesus-MMM&repo=weather-logs-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
+        <img src="https://gh-readme-stats.vercel.app/api/pin?username=Jesus-MMM&repo=weather-logs-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
       </a>
       <p><em>Sistema de registro de datos climáticos con Python, PostgreSQL y Docker.</em></p>
       <p>
@@ -169,7 +160,7 @@
 <!-- ============= AREAS ============= -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="26" height="26" />
-  <h2>Áreas de Expertise</h2>
+  <h2>Áreas de Experiencia</h2>
 </div>
 
 <br/>
@@ -223,7 +214,6 @@
 
 <!-- ============= ACTIVIDAD ============= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="26" height="26" />
   <h2>Actividad Reciente</h2>
 </div>
 
@@ -237,7 +227,6 @@
 
 <!-- ============= CONTACTO ============= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Inbox" width="26" height="26" />
   <h2>Conecta Conmigo</h2>
 </div>
 
