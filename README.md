@@ -130,14 +130,15 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🔐 EnDe</h3>
-      <a href="https://github.com/Jesus-MMM/EnDe">
-        <img src="https://gh-readme-stats.vercel.app/api/pin?username=Jesus-MMM&repo=EnDe&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
+      <h3>🕹️ chip8emu</h3>
+      <a href="https://github.com/Jesus-MMM/chip8emu">
+        <img src="https://gh-readme-stats.vercel.app/api/pin?username=Jesus-MMM&repo=chip8emu&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
       </a>
-      <p><em>App de escritorio para encriptación/desencriptación con Python, PyQt5 y Cryptography.</em></p>
+      <p><em>Emulador de CHIP-8 escrito en C con SDL2. Carga ROMs, 35 opcodes, mapeo de teclado QWERTY.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SDL2-003E5E?style=flat-square&logo=sdl&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
       </p>
     </td>
     <td width="50%" align="center" valign="top">
