@@ -141,16 +141,16 @@
         <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🌤️ Weather Logs System</h3>
-      <a href="https://github.com/Jesus-MMM/weather-logs-system">
-        <img src="https://gh-readme-stats.vercel.app/api/pin?username=Jesus-MMM&repo=weather-logs-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
+     <td width="50%" align="center" valign="top">
+      <h3>DemOS</h3>
+      <a href="https://github.com/Jesus-MMM/demos">
+        <img src="https://gh-readme-stats.vercel.app/api/pin?username=Jesus-MMM&repo=demos&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ed573&icon_color=2ed573&text_color=c9d1d9" />
       </a>
-      <p><em>Sistema de registro de datos climáticos con Python, PostgreSQL y Docker.</em></p>
+      <p><em>Sistema operativo minimalista en C.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/nasm-181818?style=flat-square&logo=assemblyscript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white"/>
       </p>
     </td>
   </tr>
